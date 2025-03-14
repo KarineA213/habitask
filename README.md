@@ -126,8 +126,8 @@ Conflitos acontecem quando duas pessoas alteram o mesmo arquivo. Para resolver:
 
 ---
 ```bash
-EventManager/
-│── frontend/
+Habitask/
+│── habitask/frontend/
 │   ├── public/
 │   ├── src/
 │   │   ├── components/
