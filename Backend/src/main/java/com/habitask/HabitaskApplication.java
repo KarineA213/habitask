@@ -1,4 +1,4 @@
-package com.habitask.habitask;
+package com.habitask;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
